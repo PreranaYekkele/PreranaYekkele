@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there, I'm Prerana Yekkele! 👋
 
-<!--
-**PreranaYekkele/PreranaYekkele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Artificial Intelligence & Space Technology Enthusiast, with a passion for pushing the boundaries of what's possible with data, AI, and machine learning. I'm captivated by the potential of technology to transform how we explore space and build intelligent solutions on Earth.
 
-Here are some ideas to get you started:
+## About Me 🌟
+- 📚 Studying Computer Science at with a strong focus on  Artificial Intelligence/Machine Learning and Data Visualization.
+- 🌌 Passionate about Space technology and its convergence with AI.
+- 🤖 Exploring innovative ways to apply AI for practical and impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Interests 🚀
+- Machine Learning, Artificial Intelligence, and Data Visualization
+- Space Exploration Technologies
+
+## Let's Connect 🤝
+- [LinkedIn](https://www.linkedin.com/in/prerana-yekkele-96b2a3209/)
+- [Email](mailto:preranayekkele@gmail.com)
+
+Feel free to reach out to me or just chat about tech, innovations, and beyond!
