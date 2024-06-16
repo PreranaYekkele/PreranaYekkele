@@ -8,8 +8,8 @@ I'm an Artificial Intelligence & Space Technology Enthusiast, with a passion for
 - 🤖 Exploring innovative ways to apply AI for practical and impactful solutions.
 
 ## My Interests 🚀
-- Machine Learning, Artificial Intelligence, and Data Visualization
-- Space Exploration Technologies
+- Machine Learning, Artificial Intelligence, and Data Visualization.
+- Space Exploration Technologies.
 
 ## Let's Connect 🤝
 - [LinkedIn](https://www.linkedin.com/in/prerana-yekkele-96b2a3209/)
