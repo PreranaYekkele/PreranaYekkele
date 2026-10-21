@@ -3,7 +3,7 @@
 I'm an Artificial Intelligence & Space Technology Enthusiast, with a passion for pushing the boundaries of what's possible with data, AI, and machine learning. I'm captivated by the potential of technology to transform how we explore space and build intelligent solutions on Earth.
 
 ## About Me 
-- I am doing my masters in Informatik(Computer Science).
+- I am doing my masters in Informatik(Computer Science) in Universität Passau
 - Passionate about Space technology 
 - Exploring innovative ways to apply AI for practical and impactful solutions.
 
