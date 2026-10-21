@@ -1,13 +1,13 @@
-# Hey there, I'm Prerana Yekkele! 👋
+# Hey there, I'm Prerana Yekkele! 
 
 I'm an Artificial Intelligence & Space Technology Enthusiast, with a passion for pushing the boundaries of what's possible with data, AI, and machine learning. I'm captivated by the potential of technology to transform how we explore space and build intelligent solutions on Earth.
 
-## About Me 🌟
-- 📚 Studying Computer Science with a strong focus on  Artificial Intelligence/Machine Learning and Data Visualization.
-- 🌌 Passionate about Space technology and its convergence with AI.
-- 🤖 Exploring innovative ways to apply AI for practical and impactful solutions.
+## About Me 
+- I am doing my masters in Informatik(Computer Science).
+- Passionate about Space technology 
+- Exploring innovative ways to apply AI for practical and impactful solutions.
 
-## My Interests 🚀
+## My Interests 
 - Machine Learning, Artificial Intelligence, and Data Visualization.
 - Space Exploration Technologies.
 
