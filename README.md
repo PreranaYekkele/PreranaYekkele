@@ -13,6 +13,6 @@ I'm an Artificial Intelligence & Space Technology Enthusiast, with a passion for
 
 ## Let's Connect 🤝
 - [LinkedIn](https://www.linkedin.com/in/prerana-yekkele-96b2a3209/)
-- Email: preranayekkele@gmail.com.
+- Email: yekkeleprerana@gmail.com.
 
 Feel free to reach out to me or just chat about tech, innovations, and beyond!
